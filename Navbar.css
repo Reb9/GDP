@@ -1,0 +1,29 @@
+.btn-primary {
+    color: #fff;
+    background-color: #D88600;
+    border-color: #9C6100;
+  }
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #D88600;
+    border-color: #9C6100;
+  }
+  .btn-primary:onClick {
+    color: #fff;
+    background-color: #D88600;
+    border-color: #9C6100;
+  }
+.navbar{
+    background-color: #D8D8D8;
+}
+.navbar-item{
+    color:#D88600; 
+    font-size: 20px;
+}
+.navbar-item:hover{
+    color: #9C6100;
+}
+.navbar-logo{
+    width:200px;
+    height:100px;
+}

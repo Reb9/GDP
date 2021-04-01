@@ -1,0 +1,52 @@
+.btn-primary {
+    color: #fff;
+    background-color: #D88600;
+    border-color: #9C6100;
+  }
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #D88600;
+    border-color: #9C6100;
+  }
+  .btn-primary:onClick {
+    color: #fff;
+    background-color: #D88600;
+    border-color: #9C6100;
+  }
+.button{
+  width: 150px;
+  height: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #fff;
+  background-color: #D88600;
+  border-color: #9C6100;
+  }
+  .button:onClick {
+    color: #fff;
+    background-color: #9C6100;
+    border-color: #9C6100;
+  }
+
+.product{
+  width: 170px;
+  height: 150px;
+  padding-left: 5px;
+}
+.title{
+    color: #9C6100;
+}
+.subtitle{
+    color:#D88600 ;
+}
+.home-logo{
+    width:500px;
+    height:300px;
+}
+.item{
+    color:#D88600; 
+    font-size: 20px;
+}
+.item:hover{
+    color: #9C6100;
+}
